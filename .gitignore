@@ -1,0 +1,10 @@
+
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.pyc
+~$*.xlsx
+*.twb~
+*.log
+*.bak
+.vscode/
