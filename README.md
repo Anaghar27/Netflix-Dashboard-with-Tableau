@@ -58,6 +58,10 @@ The raw dataset was processed using data_preprocessing.ipynb:
 1. Open any .twbx file in Tableau Public or Tableau Desktop
 2. Interact with filters and charts to explore trends by genre, year, country, rating, actor, and director
 
+## Future Enhancements
+1. The dataset can be further pre-processed to define clear complex relationships
+2. Introduce a logic to consider all the genres for a film for complex visualization
+
 ## Attribution
 
 - Dataset Source: Netflix Titles – Kaggle
